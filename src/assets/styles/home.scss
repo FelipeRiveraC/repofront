@@ -1,0 +1,13 @@
+$bg-img: url('../images/banner.jpg');
+
+html, body {
+    background-image: $bg-img;
+    min-height: 100%,
+   }
+
+div.flex-h {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}

@@ -1,0 +1,17 @@
+@import './home';
+
+.card {
+    background-color: rgb(64, 136, 243);
+}
+
+p.white {
+    color: white;
+}
+
+a.white {
+    color: white;
+}
+
+a.white:hover {
+    color: yellow;
+  }
